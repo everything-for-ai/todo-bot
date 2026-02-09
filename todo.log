@@ -1,0 +1,112 @@
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 84, in <module>
+    bot.run()
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 78, in run
+    print(self.get_summary())
+          ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 64, in get_summary
+    pending = self.list_pending()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in list_pending
+    return [t for t in self.todos if t["status"] == "pending"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in <listcomp>
+    return [t for t in self.todos if t["status"] == "pending"]
+                                     ~^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 84, in <module>
+    bot.run()
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 78, in run
+    print(self.get_summary())
+          ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 64, in get_summary
+    pending = self.list_pending()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in list_pending
+    return [t for t in self.todos if t["status"] == "pending"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in <listcomp>
+    return [t for t in self.todos if t["status"] == "pending"]
+                                     ~^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 84, in <module>
+    bot.run()
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 78, in run
+    print(self.get_summary())
+          ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 64, in get_summary
+    pending = self.list_pending()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in list_pending
+    return [t for t in self.todos if t["status"] == "pending"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in <listcomp>
+    return [t for t in self.todos if t["status"] == "pending"]
+                                     ~^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 84, in <module>
+    bot.run()
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 78, in run
+    print(self.get_summary())
+          ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 64, in get_summary
+    pending = self.list_pending()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in list_pending
+    return [t for t in self.todos if t["status"] == "pending"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in <listcomp>
+    return [t for t in self.todos if t["status"] == "pending"]
+                                     ~^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 84, in <module>
+    bot.run()
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 78, in run
+    print(self.get_summary())
+          ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 64, in get_summary
+    pending = self.list_pending()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in list_pending
+    return [t for t in self.todos if t["status"] == "pending"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in <listcomp>
+    return [t for t in self.todos if t["status"] == "pending"]
+                                     ~^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 84, in <module>
+    bot.run()
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 78, in run
+    print(self.get_summary())
+          ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 64, in get_summary
+    pending = self.list_pending()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in list_pending
+    return [t for t in self.todos if t["status"] == "pending"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in <listcomp>
+    return [t for t in self.todos if t["status"] == "pending"]
+                                     ~^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 84, in <module>
+    bot.run()
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 78, in run
+    print(self.get_summary())
+          ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 64, in get_summary
+    pending = self.list_pending()
+              ^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in list_pending
+    return [t for t in self.todos if t["status"] == "pending"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/everything-for-ai/todo-bot/todo_bot.py", line 56, in <listcomp>
+    return [t for t in self.todos if t["status"] == "pending"]
+                                     ~^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
